@@ -1,4 +1,4 @@
-import { Subscriber, Accuracy } from "/aat/main.js"
+const { Subscriber, Accuracy } = AblyAssetTracking;
 
 const ablyOptions = {
   key: "api-key-goes-here",
